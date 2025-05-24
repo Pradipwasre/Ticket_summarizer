@@ -1,0 +1,47 @@
+ticket_text
+"Customer Support Ticket
+Ticket Information
+**Short Description:** Stream Box Internet Connectivity Failure **Status:** Escalated to Tier 2 - Unresolved **Date:** May 11, 2025 **Time Opened:** 15:34 EST
+Customer Details
+**Name:** Mandy Ken **Contact Number:** 548-846-5487
+Device Information
+**Device Type:** Xumo Stream Box **MAC Address:** DF:3R:DF:34:E3:34 **Serial Number:** ES1DS58497655D51
+Issue Description
+Customer unable to connect Stream Box to internet despite functioning internet on other devices in the home.
+Troubleshooting Completed
+Tier 1 Support Actions:
+* Confirmed internet working on other devices
+* Performed power cycle of Stream Box and modem - issue persisted
+* Performed factory reset - issue persisted
+* Attempted Ethernet connection - issue persisted
+* Escalated to Tier 2
+Tier 2 Support Findings:
+* Attempted connection with phone hotspot - not working
+* Internet Service Provider: Spectrum
+* Distance between modem and Stream Box: 10 feet
+* Timestamp of Tier 2 contact: 15:34 EST, May 11
+Next Steps
+Tier 2 agent to investigate potential hardware defect in the Stream Box network components."
+"Customer Support Ticket
+Ticket Information
+**Short Description:** Xumo TV App Freezing **Status:** Resolved **Date:** May 10, 2025 **Time Opened:** 11:22 EST
+Customer Details
+**Name:** James Wilson **Contact Number:** 623-555-1234
+Device Information
+**Device Type:** Xumo TV (Hisense Model) **MAC Address:** A3:B4:C5:D6:E7:F8 **Serial Number:** XI12345678901234
+Issue Description
+Customer reports Xumo TV app freezing after 10-15 minutes of streaming. Problem started 2 days ago and affects all channels.
+Troubleshooting Completed
+Tier 1 Support Actions:
+* Performed app restart - issue recurred after 12 minutes
+* Cleared app cache through TV settings menu
+* Updated Xumo TV firmware to latest version
+* Verified internet speed (85 Mbps download) exceeds minimum requirements
+* Problem resolved after firmware update and full power cycle
+Internet Service Provider: Comcast
+Tier 1 Resolution Notes:
+* Firmware update combined with power cycle resolved the issue
+* Customer confirmed smooth operation for 30+ minutes after troubleshooting
+* Added customer to firmware issue tracking for this model
+Next Steps
+Case closed - advised customer to contact support if issue recurs."

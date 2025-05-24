@@ -1,0 +1,90 @@
+# Xumo Streaming Device Connectivity Troubleshooting
+
+## Common Connectivity Issues
+
+### Stream Box Connection Problems
+
+When a Xumo Stream Box fails to connect to the internet despite other devices working correctly, this typically indicates one of the following issues:
+
+1. **WiFi Signal Interference**: The Stream Box may be located too far from the router or experiencing interference from walls, appliances, or other electronic devices.
+
+2. **Hardware Defect**: In rare cases, the WiFi or Ethernet component in the Stream Box may be defective, especially if connections fail across multiple networks and connection methods.
+
+3. **Software Bug**: Occasional software bugs in the Stream Box firmware can cause connectivity issues that require factory resets or firmware updates.
+
+4. **Network Compatibility**: Some older routers or specific ISP configurations may have compatibility issues with Xumo Stream Box devices.
+
+### Xumo TV App Connection Issues
+
+Xumo TV smart television sets may experience different connectivity challenges:
+
+1. **Firmware Updates**: Outdated firmware often causes connection instability or app freezing.
+
+2. **Memory Management**: Extended viewing sessions can lead to memory leaks in some models, requiring a power cycle.
+
+3. **DNS Configuration**: Some ISPs use DNS settings that can conflict with Xumo TV services.
+
+## Troubleshooting Protocol
+
+### Standard Connectivity Troubleshooting Steps
+
+1. **Power Cycle**: Turn off the device, unplug from power for 60 seconds, then reconnect and restart.
+
+2. **Router Reset**: Reset the home router/modem by unplugging for 60 seconds.
+
+3. **WiFi Testing**: Test connection on alternative WiFi networks (mobile hotspot, neighbor's WiFi if available).
+
+4. **Ethernet Testing**: For Stream Box, test using wired Ethernet connection if available.
+
+5. **Factory Reset**: Perform factory reset as a last resort before escalation.
+
+### Escalation Criteria
+
+Escalate to Tier 2 support if:
+
+1. All standard troubleshooting steps have been completed without resolution.
+2. Multiple connection methods (WiFi, Ethernet, hotspot) have been attempted.
+3. Device works properly in all aspects except internet connectivity.
+4. Factory reset did not resolve the issue.
+
+### Hardware Replacement Indicators
+
+Consider hardware replacement when:
+
+1. Device fails to connect across multiple networks and connection methods.
+2. Factory reset does not resolve the issue.
+3. Similar devices work properly in the same environment.
+4. Diagnosis tools indicate hardware failure.
+
+## Known Issues by Model
+
+### Stream Box (2023-2024 Models)
+
+Some units manufactured between November 2023 and February 2024 have a known issue with WiFi antenna connections that can become loose during shipping. This typically manifests as:
+
+- Intermittent connectivity
+- Inability to detect 5GHz networks
+- Significantly reduced WiFi range compared to specifications
+- Device shows connected status but cannot stream content
+
+### Hisense Xumo TV (2024 Models)
+
+A software update released in March 2024 resolved a widespread issue where Hisense Xumo TVs would freeze after extended streaming sessions. If customer has not updated firmware since March 2024, recommend immediate update.
+
+## ISP-Specific Notes
+
+### Spectrum
+
+Some Spectrum customers with specific modem models (particularly the Wave2 RAC2V1S) have reported compatibility issues with Xumo Stream Box devices. Recommended solutions:
+
+1. Request modem firmware update from Spectrum
+2. Use Ethernet connection instead of WiFi when possible
+3. Set router to use alternative DNS servers (such as Google DNS: 8.8.8.8 and 8.8.4.4)
+
+### Comcast/Xfinity
+
+Xfinity xFi Advanced Security feature has occasionally blocked Xumo service connections. If customer uses Xfinity and experiences connection issues:
+
+1. Temporarily disable Advanced Security to test
+2. Add Xumo devices to allowed list in xFi settings
+3. Consider setting up Xumo device on Guest Network
